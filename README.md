@@ -1,4 +1,4 @@
-# delta-demo
+# delta-project
 this is the demo of git &amp; github.
  
 
